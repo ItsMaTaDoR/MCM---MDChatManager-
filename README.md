@@ -8,6 +8,6 @@ MCM - The Ultimate Minecraft chat plugin
 
 - # Install Tutorial
 - Place the JAR file in the server plugin folder
-- Restart the server
+- Restart/reload the server
 
 
