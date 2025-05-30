@@ -1,7 +1,7 @@
 # MCM---MDChatManager-
 MCM - The Ultimate Minecraft chat plugin
 
-# Facilities
+# Features
 - Chat reset every 12 hours
 - 5 second cooldown for each message
 - Limiting the use of multiple messages in a chat
